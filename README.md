@@ -9,6 +9,6 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS
  <br/> :computer: &nbsp; Minha stack: ReactJS, C & C++ .
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados na Prime Video
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-058278163/)](https://www.linkedin.com/in/bruno-pereira-058278163/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Bruno-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-pereira-058278163/)](https://www.linkedin.com/in/bruno-pereira-058278163/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-buuuzx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buuuzx@gmail.com)](mailto:buuuzx@gmail.com)
