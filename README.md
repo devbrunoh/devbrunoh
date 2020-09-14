@@ -1,13 +1,43 @@
 # Bruno Henrique
 
+## Habilidades
+### Linguagens de programação nível BackEnd
+LINGUAGENS | NÍVEL | Software para
+-----------|-------|------------------------
+ C        | Intermediário | Aplicação, Embarcado
+ C++      | Intermediário | Aplicação, Embarcado
+ Python   | Intermediário | Aplicação, Web
+ Java     | Básico        | Aplicação
+ Php      | Básico        | Web
+ 
+### Linguagem de programação / marcação FrontEnd
+LINGUAGENS | NÍVEL | Software para
+-----------|-------|--------------------
+HTML5      |Intermediário| Web
+CSS3       |Intermediário| Web
+Javascript |Intermediário| Web
+React      |Intermediário| Web
+### Banco de Dados
+LINGUAGEM | NÍVEL
+----------|----------
+SQL        | Intermediário
+ORACLE SQL | Intermediário
+MYSQL      | Intermediário
+SQLITE     | Intermediário
+MARIA DB   | Intermediário
+
+### Hardware 
+> Certificação CISCO NETACAD
+* Manutenção de computadores
+* Instalação / Montagem
+
+## Contato
+
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  Estou trabalhando como estagiario na **Parxtech**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS
- <br/> :computer: &nbsp; Minha stack: Javascript, ReactJS, C & C++ .
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados na Prime Video
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunoHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoH97/)](https://www.linkedin.com/in/brunoH97/) 
 | 
