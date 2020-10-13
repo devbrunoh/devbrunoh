@@ -4,8 +4,8 @@
 ### Linguagens de programação nível BackEnd
 LINGUAGENS | NÍVEL | Software para
 -----------|-------|------------------------
- C        | Intermediário | Aplicação, Embarcado
- C++      | Intermediário | Aplicação, Embarcado
+ C        | Intermediário | Aplicação
+ C++      | Intermediário | Aplicação
  Python   | Intermediário | Aplicação, Web
  Java     | Básico        | Aplicação
  Php      | Básico        | Web
@@ -27,9 +27,11 @@ SQLITE     | Intermediário
 MARIA DB   | Intermediário
 
 ### Hardware 
-> Certificação CISCO NETACAD
-* Manutenção de computadores
-* Instalação / Montagem
+> 2 Certificaçoes CISCO NETACAD
+* TI essentials
+* CCNA Routing and Switching
+
+
 
 ## Contato
 
