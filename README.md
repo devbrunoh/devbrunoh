@@ -8,7 +8,6 @@ LINGUAGENS | NÍVEL | Software para
  C++      | Intermediário | Aplicação
  Python   | Intermediário | Aplicação, Web
  Java     | Básico        | Aplicação
- Php      | Básico        | Web
  
 ### Linguagem de programação / marcação FrontEnd
 LINGUAGENS | NÍVEL | Software para
@@ -39,7 +38,6 @@ MARIA DB   | Intermediário
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- Estou trabalhando como estagiario na **Parxtech**
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados na Prime Video
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunoHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoH97/)](https://www.linkedin.com/in/brunoH97/) 
 | 
