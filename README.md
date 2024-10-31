@@ -41,4 +41,4 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados na Prime Video
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunoHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoH97/)](https://www.linkedin.com/in/brunoH97/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-buuuzx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buuuzx@gmail.com)](mailto:buuuzx@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-devbrunoh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devbrunoh@gmail.com)](mailto:devbrunoh@gmail.com)
